@@ -1,6 +1,9 @@
 # LeetCode Online Judge
-Practice coding in this year.<br \>
+Practice coding in this year.
+
 [LeetCode Online Judge](https://leetcode.com/)
+
 ### Solutions and Problems
-Folders named after problems.<br \>
-Under each folder named "solution.c" and "problem.txt" are where solutions and problem in.
+Folders named after problems.
+
+Under each folder named "solution" and "problem" are where solutions and problems in.
